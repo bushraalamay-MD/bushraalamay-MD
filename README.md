@@ -15,7 +15,6 @@ I design studies, build monitoring and evaluation frameworks, and turn health da
 
 | Project | What it is | Status |
 |---|---|---|
-| CHW MEAL Toolkit | Indicator framework, KoboToolbox form and R code for community health worker programs | In progress |
 | Multi-Level Performance Evaluation Framework | A reusable framework for evaluating the performance of public health departments | In progress |
 | Staggered DiD for Public Health in R | A tutorial on evaluating staggered interventions, using simulated outbreak data | Planned |
 
